@@ -1,0 +1,19 @@
+{
+    "gallery": {
+        "data": [
+            {
+                "id": "0",
+                "url": "https://raw.githubusercontent.com/PalmerDoesArtDevelopment/PalmerDoesArtGallery/main/gallery.json"
+            },
+            {
+                "id": "1"
+            },
+            {
+                "id": "2"
+            },
+            {
+                "id": "3"
+            }
+        ]
+    }
+}

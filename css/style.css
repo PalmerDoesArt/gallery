@@ -3,15 +3,15 @@
     color:white;
 }
 .main {
-  background-color: #001220;
-  width:auto;
-  height: auto;
   background-image: url('https://palmerdoesart.github.io/gallery/assets/svgs/waves_top.svg');
   background-repeat: no-repeat;  
   width:1920px;
   height:5400px; 
   position: fixed;   
   display: block;
+  background-color: #001220;
+  width:auto;
+  height: auto;
 }
 .top-waves{
   background-image: url('https://palmerdoesart.github.io/gallery/assets/svgs/waves_top.svg');

@@ -42,7 +42,7 @@
   }
 .header-logo {
   width: auto;
-  text-align: center;
+  left: 1000px;
   color:#ffffff;
   font-family: 'Josefin Sans', sans-serif; font-weight: 600;
 }
